@@ -1,3 +1,3 @@
-# EllipsePy_Starlink_Constellation
+# EllipsePy - Starlink Constellation
 
-EllipsePy - Starlink Constellation| Lalith Uriti 2021
+By Lalith Uriti 2021
