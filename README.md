@@ -1,3 +1,3 @@
 # EllipsePy | Starlink Constellation
 
-https://lalithu.github.io/EllipsePyStarlinkConstellation/ | Lalith U, 2021
+https://lalithu.github.io/StarlinkConstellation/ | Lalith U, 2021
